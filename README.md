@@ -1,6 +1,6 @@
 # 💙 react todo app 💙
 
-### docker 
+### 🐳 docker 
 #### docker build
 docker build ./
 
